@@ -36,7 +36,7 @@ The code in this repository is organized into the following stages:
 ## 🚀 Getting Started
 
 ### Prerequisites
-* **R version:** 4.x
+* **R version:** 4.x, SAS
 * **Required Libraries:** `survival`, `tidyverse`, `genetics`, `ggplot2`
 
 ### Usage
